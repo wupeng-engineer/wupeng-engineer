@@ -2,4 +2,4 @@
 
 ### 难！！！
 
-<img src="https://github-profile-trophy.vercel.app/?username=wupeng-engineer&theme=flat&column=8" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+<img src="https://github-profile-trophy.vercel.app/?username=wupeng-engineer&theme=flat&column=6" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
